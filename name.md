@@ -1,4 +1,3 @@
 ##first seminar at GitHub
 
-
-add strings
+Change file
